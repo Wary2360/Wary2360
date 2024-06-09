@@ -1,16 +1,63 @@
-## Hi there 👋
+<h1 align="center">🌱 I'm Hyoungwon Seo</h1>
+<h3 align="center">Learning AI from Korea</h3>
 
-<!--
-**Wary2360/Wary2360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">🔭 currently working</h3>
+<p align="left">
+  Research project to enhance the performance of semantic segmentation in SAR images as part of my Capstone Design
+</p>
 
-Here are some ideas to get you started:
+<h3 align="left">💼 Previous Work</h3>
+<p align="left">
+  - Cybersecurity Policy Domain Natural Language Processing Research<br>
+  - Image Classification Model for Detecting Spoofing Attacks<br>
+  - Semantic Segmentation of Clouds in Satellite Imagery
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">📄 CV</h3>
+<p align="left">
+  <a href="https://your-username.github.io/your-repo-name/your-cv-file.pdf" target="_blank" rel="noreferrer">View my CV</a>
+</p>
+
+<h3 align="left">📧 Using E-mail</h3>
+<p align="left">
+  guddnjs2366@gmail.com
+</p>
+
+<h3 align="left">🏢 Affiliated Lab</h3>
+<p align="left">
+  <a href="https://sites.google.com/view/aim-lab-hbnu/" target="_blank" rel="noreferrer">AIM Lab, Hanbat National University</a><br>
+  Haneol Jang (장한얼), Assistant Professor
+</p>
+
+<h3 align="left">🌐 Languages</h3>
+<p align="left"> 
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a> 
+</p>
+
+<h3 align="left">🛠️ Primary Languages</h3>
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a> 
+</p>
+
+<h3 align="left">🔧 Tools</h3>
+<p align="left">
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
+  </a> 
+</p>
