@@ -3,14 +3,19 @@
 
 <h3 align="left">🔭 currently working</h3>
 <p align="left">
-  Research project to enhance the performance of semantic segmentation in SAR images as part of my Capstone Design
+  Research project to enhance the performance of semantic segmentation in SAR images as part of my Capstone Design<br>
+  - Explored and applied SAR image preprocessing techniques<br>
+  - Investigated and experimented with data augmentation for semantic segmentation of SAR images<br>
+  - Researched SAR image translation (SAR to Optical, Optical to SAR)<br>
+  - Explored methodologies in unsupervised domain adaptation(UDA) and knowledge distillation(KD) for SAR images
 </p>
 
 <h3 align="left">💼 Previous Work</h3>
 <p align="left">
-  - Cybersecurity Policy Domain Natural Language Processing Research<br>
-  - Image Classification Model for Detecting Spoofing Attacks<br>
-  - Semantic Segmentation of Clouds in Satellite Imagery
+  $\cdot$ Cybersecurity Policy Domain Natural Language Processing Research<br>
+  $\cdot$ Research on Detecting Generated Images<br>
+	$\cdot$ Image Classification Model for Detecting Spoofing Attacks<br>
+	$\cdot$ Semantic Segmentation of Clouds in Satellite Imagery
 </p>
 
 <h3 align="left">📄 CV</h3>
