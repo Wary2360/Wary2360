@@ -15,7 +15,7 @@
 
 <h3 align="left">📄 CV</h3>
 <p align="left">
-  <a href="https://your-username.github.io/your-repo-name/your-cv-file.pdf" target="_blank" rel="noreferrer">View my CV</a>
+  <a href="https://github.com/Wary2360/Wary2360/blob/main/CV_HyoungwonSeo.pdf" target="_blank" rel="noreferrer">View my CV</a>
 </p>
 
 <h3 align="left">📧 Using E-mail</h3>
