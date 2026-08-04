@@ -16,8 +16,6 @@ My research focuses on multimodal computer vision for challenging sensing enviro
 
 📍 Daejeon, Republic of Korea · 🎓 Hanbat National University · 🔬 AIM Lab
 
-<img src="https://raw.githubusercontent.com/Wary2360/Wary2360/main/assets/aurora-pipeline.svg" width="100%" alt="Cross-modal learning pipeline" />
-
 ## Research interests
 
 | Direction | Research focus |
