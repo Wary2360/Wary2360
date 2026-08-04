@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+  <title id="title">Cross-modal learning pipeline</title>
+  <desc id="desc">Rich training signals guide deployable single-sensor perception</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1"><stop stop-color="#F2FBF9"/><stop offset="1" stop-color="#F3F0FF"/></linearGradient>
+    <linearGradient id="line" x1="0" x2="1"><stop stop-color="#1AAE92"/><stop offset="1" stop-color="#6D55D9"/></linearGradient>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0 0L10 5L0 10Z" fill="#6D55D9"/></marker>
+  </defs>
+  <rect width="1200" height="260" rx="24" fill="url(#bg)"/>
+  <text x="56" y="48" fill="#173247" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="2">ONE RESEARCH QUESTION</text>
+  <text x="56" y="82" fill="#071A2B" font-family="Arial, sans-serif" font-size="26" font-weight="800">How can richer modalities teach a deployable sensor?</text>
+  <g font-family="Arial, sans-serif">
+    <rect x="56" y="119" width="214" height="88" rx="16" fill="#FFFFFF" stroke="#B7E9DE"/>
+    <text x="76" y="149" fill="#1AAE92" font-size="12" font-weight="700" letter-spacing="1.4">TRAINING SIGNALS</text>
+    <text x="76" y="177" fill="#173247" font-size="18" font-weight="700">Visible · EO</text>
+    <text x="76" y="198" fill="#6A7F8D" font-size="13">paired, information-rich</text>
+    <path d="M284 163H378" stroke="url(#line)" stroke-width="3" marker-end="url(#arrow)"/>
+    <rect x="395" y="119" width="270" height="88" rx="16" fill="#112E45"/>
+    <text x="416" y="149" fill="#62E6C7" font-size="12" font-weight="700" letter-spacing="1.4">KNOWLEDGE TRANSFER</text>
+    <text x="416" y="177" fill="#FFFFFF" font-size="18" font-weight="700">Guidance · Translation</text>
+    <text x="416" y="198" fill="#B9CFDC" font-size="13">reliable cross-modal features</text>
+    <path d="M679 163H773" stroke="url(#line)" stroke-width="3" marker-end="url(#arrow)"/>
+    <rect x="790" y="119" width="354" height="88" rx="16" fill="#FFFFFF" stroke="#D6CCFF"/>
+    <text x="812" y="149" fill="#6D55D9" font-size="12" font-weight="700" letter-spacing="1.4">DEPLOYMENT</text>
+    <text x="812" y="177" fill="#173247" font-size="18" font-weight="700">IR Detection · SAR Segmentation</text>
+    <text x="812" y="198" fill="#6A7F8D" font-size="13">single-sensor inference</text>
+  </g>
+</svg>
