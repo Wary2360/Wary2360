@@ -56,7 +56,7 @@ My research focuses on multimodal computer vision for challenging sensing enviro
 
 | Affiliation | Role / Project | Research |
 |:--|:--|:--|
-| **AIM Lab** | M.S. Student · 2025–Present | Multimodal computer vision, infrared detection, SAR segmentation |
+| **AIM Lab** | Undergraduate Researcher · 2023–2025<br>M.S. Student · 2025–Present | Multimodal computer vision, infrared detection, SAR segmentation |
 | **Datamaker** | Research Intern · Jul. 2024 | Korean document OCR, table recognition, PDF text/table extraction |
 | **National Security Research Institute** | Research Project · 2023–Present | RAG-based ChatAI for cybersecurity-policy analysis and knowledge utilization |
 
